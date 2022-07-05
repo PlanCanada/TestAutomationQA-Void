@@ -1,0 +1,103 @@
+ INFO | 2022-06-28 13:50:52,905 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-06-28 13:50:52,912 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\PlanCanada\TestResults\2022_06_28_01_50_52_PM
+ INFO | 2022-06-28 13:50:52,912 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-06-28 13:50:53,275 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-06-28 13:50:53,460 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-06-28 13:50:53,754 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2022-06-28 13:50:53,756 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-06-28 13:50:53,757 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-06-28 13:50:53,760 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-06-28 13:50:53,762 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-06-28 13:50:53,767 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-06-28 13:50:53,769 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-06-28 13:50:53,772 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-06-28 13:50:53,774 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-06-28 13:50:53,776 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-06-28 13:50:53,776 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Element time out set
+ INFO | 2022-06-28 13:50:53,778 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  ##### Start of Test Case : Login to Adactin Application #####
+ INFO | 2022-06-28 13:50:53,779 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Case Name: Today_Donate_AS_A_GuestUser
+ INFO | 2022-06-28 13:50:53,781 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-06-28 13:50:53,901 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: Today_Donate_AS_A_GuestUser
+ INFO | 2022-06-28 13:50:53,901 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: Execute
+ INFO | 2022-06-28 13:50:53,902 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: Today_Donate_AS_A_GuestUser_01
+ INFO | 2022-06-28 13:50:53,902 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: NO
+ INFO | 2022-06-28 13:50:53,903 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: Today_Donate_AS_A_GuestUser_02
+ INFO | 2022-06-28 13:50:53,903 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: NO
+ INFO | 2022-06-28 13:50:53,903 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: Today_Donate_AS_A_GuestUser_03
+ INFO | 2022-06-28 13:50:53,903 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: NO
+ INFO | 2022-06-28 13:50:53,904 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: Today_Donate_AS_A_GuestUser_04
+ INFO | 2022-06-28 13:50:53,904 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: YES
+ INFO | 2022-06-28 13:50:53,905 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: 
+ INFO | 2022-06-28 13:50:53,905 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: 
+ INFO | 2022-06-28 13:50:53,915 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-06-28 13:50:58,138 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-06-28 13:50:58,140 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-06-28 13:50:58,146 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-06-28 13:51:18,266 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-Donate button
+ INFO | 2022-06-28 13:51:18,267 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-Donate button
+ERROR | 2022-06-28 13:51:23,334 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Uanble to click on Element-One Time, Exception is->element click intercepted: Element <label for="recurrence-OneTime" class="switch-label switch-label-No">...</label> is not clickable at point (883, 22). Other element would receive the click: <a href="https://plancanada.net/gifts-of-hope" target="" class="none-class">...</a>
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53404}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: adc9686666e31bd7a0d63009a30cbcd1
+ERROR | 2022-06-28 13:51:23,335 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Report step generation success : Uanble to click on Element-One Time, Exception is->element click intercepted: Element <label for="recurrence-OneTime" class="switch-label switch-label-No">...</label> is not clickable at point (883, 22). Other element would receive the click: <a href="https://plancanada.net/gifts-of-hope" target="" class="none-class">...</a>
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53404}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: adc9686666e31bd7a0d63009a30cbcd1
+ INFO | 2022-06-28 13:51:23,338 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-06-28 13:51:51,543 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-06-28 13:51:51,550 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:51:51,554 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:51:51,557 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:51:51,562 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:51:52,592 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-Price $5
+ INFO | 2022-06-28 13:51:52,593 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-Price $5
+ERROR | 2022-06-28 13:51:58,058 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Element is not visible after waiting for 5 Seconds, : [[ChromeDriver: chrome on WINDOWS (adc9686666e31bd7a0d63009a30cbcd1)] -> xpath: //button[@class='btn--primary formSubmit donationformsubmit']]
+ERROR | 2022-06-28 13:51:58,059 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Report step generation success : Element is not visible after waiting for 5 Seconds, : [[ChromeDriver: chrome on WINDOWS (adc9686666e31bd7a0d63009a30cbcd1)] -> xpath: //button[@class='btn--primary formSubmit donationformsubmit']]
+ INFO | 2022-06-28 13:51:58,060 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ERROR | 2022-06-28 13:51:58,074 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Report step generation success : org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53404}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: adc9686666e31bd7a0d63009a30cbcd1
+ERROR | 2022-06-28 13:51:58,089 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Uanble to click on Element-Continue My Donation, Exception is->no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53404}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: adc9686666e31bd7a0d63009a30cbcd1
+ERROR | 2022-06-28 13:51:58,090 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Report step generation success : Uanble to click on Element-Continue My Donation, Exception is->no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53404}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: adc9686666e31bd7a0d63009a30cbcd1
+ INFO | 2022-06-28 13:51:58,092 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ERROR | 2022-06-28 13:51:58,105 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Report step generation success : org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53404}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: adc9686666e31bd7a0d63009a30cbcd1
+ INFO | 2022-06-28 13:51:58,664 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-06-28 13:51:58,666 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-06-28 13:51:58,669 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2022-06-28 13:52:20,020 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\PlanCanada\TestResults\2022_06_28_01_50_52_PM/Results.html
+ INFO | 2022-06-28 13:52:20,020 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\PlanCanada\TestResults\2022_06_28_01_50_52_PM/Results.html
+ INFO | 2022-06-28 13:52:20,021 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  ###################################
+ INFO | 2022-06-28 13:52:20,021 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Script Execvution Complete
+ INFO | 2022-06-28 13:52:20,021 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  ####################################

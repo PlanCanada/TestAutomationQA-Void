@@ -1,0 +1,102 @@
+ INFO | 2022-06-28 08:24:45,768 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-06-28 08:24:45,771 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\PlanCanada\TestResults\2022_06_28_08_24_45_AM
+ INFO | 2022-06-28 08:24:45,771 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-06-28 08:24:46,032 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-06-28 08:24:46,155 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-06-28 08:24:46,332 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2022-06-28 08:24:46,335 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-06-28 08:24:46,336 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-06-28 08:24:46,338 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-06-28 08:24:46,340 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-06-28 08:24:46,345 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-06-28 08:24:46,347 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-06-28 08:24:46,349 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-06-28 08:24:46,350 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-06-28 08:24:46,352 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-06-28 08:24:46,353 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Element time out set
+ INFO | 2022-06-28 08:24:46,354 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  ##### Start of Test Case : Login to Adactin Application #####
+ INFO | 2022-06-28 08:24:46,355 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Case Name: Today_Donate_AS_A_GuestUser
+ INFO | 2022-06-28 08:24:46,357 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-06-28 08:24:46,447 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: Today_Donate_AS_A_GuestUser
+ INFO | 2022-06-28 08:24:46,447 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: Execute
+ INFO | 2022-06-28 08:24:46,448 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: Today_Donate_AS_A_GuestUser_01
+ INFO | 2022-06-28 08:24:46,449 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: NO
+ INFO | 2022-06-28 08:24:46,449 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: Today_Donate_AS_A_GuestUser_02
+ INFO | 2022-06-28 08:24:46,450 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: NO
+ INFO | 2022-06-28 08:24:46,450 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: Today_Donate_AS_A_GuestUser_02
+ INFO | 2022-06-28 08:24:46,451 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: YES
+ INFO | 2022-06-28 08:24:46,451 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: 
+ INFO | 2022-06-28 08:24:46,452 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: 
+ INFO | 2022-06-28 08:24:46,476 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-06-28 08:24:50,393 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-06-28 08:24:50,395 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-06-28 08:24:50,395 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-06-28 08:26:01,498 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-Donate button
+ INFO | 2022-06-28 08:26:01,499 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-Donate button
+ INFO | 2022-06-28 08:26:05,430 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-One Time
+ INFO | 2022-06-28 08:26:05,432 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-One Time
+ INFO | 2022-06-28 08:26:08,762 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-Price $50
+ INFO | 2022-06-28 08:26:08,763 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-Price $50
+ERROR | 2022-06-28 08:26:12,275 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Uanble to click on Element-Continue My Donation, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56975}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 60c2ec316f5472ec03deed5a102131d5
+ERROR | 2022-06-28 08:26:12,278 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Report step generation success : Uanble to click on Element-Continue My Donation, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56975}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 60c2ec316f5472ec03deed5a102131d5
+ INFO | 2022-06-28 08:26:12,282 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-06-28 08:27:21,873 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-06-28 08:27:21,877 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 08:27:21,884 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 08:27:21,889 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 08:27:21,891 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 08:27:45,155 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-06-28 08:27:45,156 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-06-28 08:27:56,744 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> test
+ INFO | 2022-06-28 08:27:56,745 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> test
+ INFO | 2022-06-28 08:29:30,075 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 28062022082800JasSingh@planCanada.ca
+ INFO | 2022-06-28 08:29:30,075 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 28062022082800JasSingh@planCanada.ca
+ INFO | 2022-06-28 08:29:30,586 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 245 Eglinton Ave E
+ INFO | 2022-06-28 08:29:30,586 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 245 Eglinton Ave E
+ INFO | 2022-06-28 08:29:31,126 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> Toronto
+ INFO | 2022-06-28 08:29:31,126 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> Toronto
+ INFO | 2022-06-28 08:29:31,441 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Selected value -Ontario from dropdown->Province
+ INFO | 2022-06-28 08:29:31,442 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Selected value -Ontario from dropdown->Province
+ INFO | 2022-06-28 08:29:31,927 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> M4P 0B3
+ INFO | 2022-06-28 08:29:31,927 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> M4P 0B3
+ INFO | 2022-06-28 08:29:32,399 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 18003871418
+ INFO | 2022-06-28 08:29:32,399 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 18003871418
+ INFO | 2022-06-28 08:29:32,883 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 4222222222222220
+ INFO | 2022-06-28 08:29:32,883 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 4222222222222220
+ INFO | 2022-06-28 08:29:33,433 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-06-28 08:29:33,434 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-06-28 08:29:33,908 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> TestOne
+ INFO | 2022-06-28 08:29:33,909 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> TestOne
+ INFO | 2022-06-28 08:29:34,335 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 02/25
+ INFO | 2022-06-28 08:29:34,336 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 02/25
+ INFO | 2022-06-28 08:29:34,785 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 987
+ INFO | 2022-06-28 08:29:34,785 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 987
+ INFO | 2022-06-28 08:29:35,327 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-Same As contact Address
+ INFO | 2022-06-28 08:29:35,327 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-Same As contact Address
+ INFO | 2022-06-28 08:29:36,023 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-Donate Now
+ INFO | 2022-06-28 08:29:36,024 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-Donate Now
+ INFO | 2022-06-28 08:29:38,366 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of UpdateTestLinkStatus from Test Configuration file : Yes
+ INFO | 2022-06-28 08:31:02,608 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Unable to update the status for TestCase->Today_Donate_AS_A_GuestUser
+ INFO | 2022-06-28 08:31:02,609 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Report step generation success : Unable to update the status for TestCase->Today_Donate_AS_A_GuestUser
+ INFO | 2022-06-28 08:31:03,016 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-06-28 08:31:03,017 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-06-28 08:31:03,019 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2022-06-28 08:31:24,200 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\PlanCanada\TestResults\2022_06_28_08_24_45_AM/Results.html
+ INFO | 2022-06-28 08:31:24,200 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\PlanCanada\TestResults\2022_06_28_08_24_45_AM/Results.html
+ INFO | 2022-06-28 08:31:24,201 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  ###################################
+ INFO | 2022-06-28 08:31:24,201 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Script Execution Complete
+ INFO | 2022-06-28 08:31:24,201 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  ####################################

@@ -1,0 +1,235 @@
+ INFO | 2022-06-28 13:49:13,704 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-06-28 13:49:13,709 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\PlanCanada\TestResults\2022_06_28_01_49_13_PM
+ INFO | 2022-06-28 13:49:13,709 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-06-28 13:49:14,116 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-06-28 13:49:14,250 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-06-28 13:49:14,526 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2022-06-28 13:49:14,527 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-06-28 13:49:14,529 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-06-28 13:49:14,530 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-06-28 13:49:14,531 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-06-28 13:49:14,535 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-06-28 13:49:14,537 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-06-28 13:49:14,538 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-06-28 13:49:14,539 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-06-28 13:49:14,541 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-06-28 13:49:14,542 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Element time out set
+ INFO | 2022-06-28 13:49:14,543 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  ##### Start of Test Case : Login to Adactin Application #####
+ INFO | 2022-06-28 13:49:14,543 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Case Name: Today_Donate_AS_A_GuestUser
+ INFO | 2022-06-28 13:49:14,544 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-06-28 13:49:14,650 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: Today_Donate_AS_A_GuestUser
+ INFO | 2022-06-28 13:49:14,651 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: Execute
+ INFO | 2022-06-28 13:49:14,651 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: Today_Donate_AS_A_GuestUser_01
+ INFO | 2022-06-28 13:49:14,651 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: YES
+ INFO | 2022-06-28 13:49:14,652 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: Today_Donate_AS_A_GuestUser_02
+ INFO | 2022-06-28 13:49:14,652 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: YES
+ INFO | 2022-06-28 13:49:14,652 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: Today_Donate_AS_A_GuestUser_03
+ INFO | 2022-06-28 13:49:14,652 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: YES
+ INFO | 2022-06-28 13:49:14,652 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: Today_Donate_AS_A_GuestUser_04
+ INFO | 2022-06-28 13:49:14,653 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: YES
+ INFO | 2022-06-28 13:49:14,653 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Test Data Set Name: 
+ INFO | 2022-06-28 13:49:14,653 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Execution Flag: 
+ INFO | 2022-06-28 13:49:14,665 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-06-28 13:49:18,311 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-06-28 13:49:18,316 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-06-28 13:49:18,318 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-06-28 13:49:33,617 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-Donate button
+ INFO | 2022-06-28 13:49:33,618 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-Donate button
+ INFO | 2022-06-28 13:49:34,360 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-One Time
+ INFO | 2022-06-28 13:49:34,361 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-One Time
+ INFO | 2022-06-28 13:49:35,027 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-Price $25
+ INFO | 2022-06-28 13:49:35,028 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-Price $25
+ERROR | 2022-06-28 13:49:36,735 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Uanble to click on Element-Continue My Donation, Exception is->unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53006}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eb38c10205269341474fca8bc9552b74
+ERROR | 2022-06-28 13:49:36,736 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Report step generation success : Uanble to click on Element-Continue My Donation, Exception is->unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53006}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eb38c10205269341474fca8bc9552b74
+ INFO | 2022-06-28 13:49:36,740 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-06-28 13:49:49,432 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-06-28 13:49:49,435 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:49:49,439 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:49:49,442 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:49:49,444 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:49:50,196 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-06-28 13:49:50,197 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-06-28 13:49:51,033 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> test
+ INFO | 2022-06-28 13:49:51,034 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> test
+ INFO | 2022-06-28 13:49:51,987 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 28062022014951_JasSingh@planCanada.ca
+ INFO | 2022-06-28 13:49:51,988 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 28062022014951_JasSingh@planCanada.ca
+ INFO | 2022-06-28 13:49:52,763 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 245 Eglinton Ave E
+ INFO | 2022-06-28 13:49:52,764 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 245 Eglinton Ave E
+ INFO | 2022-06-28 13:49:53,572 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> Toronto
+ INFO | 2022-06-28 13:49:53,573 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> Toronto
+ INFO | 2022-06-28 13:49:53,901 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Selected value -Ontario from dropdown->Province
+ INFO | 2022-06-28 13:49:53,902 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Selected value -Ontario from dropdown->Province
+ INFO | 2022-06-28 13:49:54,708 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> M4P 0B3
+ INFO | 2022-06-28 13:49:54,709 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> M4P 0B3
+ INFO | 2022-06-28 13:49:55,463 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 18003871418
+ INFO | 2022-06-28 13:49:55,465 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 18003871418
+ INFO | 2022-06-28 13:49:56,242 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 4222222222222220
+ INFO | 2022-06-28 13:49:56,242 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 4222222222222220
+ INFO | 2022-06-28 13:49:56,999 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-06-28 13:49:56,999 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-06-28 13:49:57,712 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> TestOne
+ INFO | 2022-06-28 13:49:57,712 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> TestOne
+ INFO | 2022-06-28 13:49:58,376 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 02/25
+ INFO | 2022-06-28 13:49:58,377 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 02/25
+ INFO | 2022-06-28 13:49:59,101 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 987
+ INFO | 2022-06-28 13:49:59,101 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 987
+ INFO | 2022-06-28 13:49:59,820 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-Same As contact Address
+ INFO | 2022-06-28 13:49:59,820 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-Same As contact Address
+ INFO | 2022-06-28 13:50:00,988 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-Donate Now
+ INFO | 2022-06-28 13:50:00,989 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-Donate Now
+ INFO | 2022-06-28 13:50:30,107 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-Donate button
+ INFO | 2022-06-28 13:50:30,108 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-Donate button
+ INFO | 2022-06-28 13:50:30,957 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-One Time
+ INFO | 2022-06-28 13:50:30,958 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-One Time
+ INFO | 2022-06-28 13:50:31,595 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-Price $50
+ INFO | 2022-06-28 13:50:31,596 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-Price $50
+ERROR | 2022-06-28 13:50:32,635 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Uanble to click on Element-Continue My Donation, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53006}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eb38c10205269341474fca8bc9552b74
+ERROR | 2022-06-28 13:50:32,635 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Report step generation success : Uanble to click on Element-Continue My Donation, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53006}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eb38c10205269341474fca8bc9552b74
+ INFO | 2022-06-28 13:50:32,639 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-06-28 13:50:47,003 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-06-28 13:50:47,005 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:50:47,007 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:50:47,009 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:50:47,013 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:50:47,852 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-06-28 13:50:47,853 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-06-28 13:50:48,703 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> test
+ INFO | 2022-06-28 13:50:48,703 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> test
+ INFO | 2022-06-28 13:50:49,823 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 28062022015048_JasSingh@planCanada.ca
+ INFO | 2022-06-28 13:50:49,823 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 28062022015048_JasSingh@planCanada.ca
+ INFO | 2022-06-28 13:50:50,620 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 245 Eglinton Ave E
+ INFO | 2022-06-28 13:50:50,621 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 245 Eglinton Ave E
+ INFO | 2022-06-28 13:50:51,346 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> Toronto
+ INFO | 2022-06-28 13:50:51,346 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> Toronto
+ INFO | 2022-06-28 13:50:51,476 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Selected value -Ontario from dropdown->Province
+ INFO | 2022-06-28 13:50:51,476 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Selected value -Ontario from dropdown->Province
+ INFO | 2022-06-28 13:50:52,141 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> M4P 0B3
+ INFO | 2022-06-28 13:50:52,142 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> M4P 0B3
+ INFO | 2022-06-28 13:50:52,919 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 18003871418
+ INFO | 2022-06-28 13:50:52,919 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 18003871418
+ INFO | 2022-06-28 13:50:53,602 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 4222222222222220
+ INFO | 2022-06-28 13:50:53,603 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 4222222222222220
+ INFO | 2022-06-28 13:50:54,483 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-06-28 13:50:54,483 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-06-28 13:50:55,217 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> TestOne
+ INFO | 2022-06-28 13:50:55,218 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> TestOne
+ INFO | 2022-06-28 13:50:56,034 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 02/25
+ INFO | 2022-06-28 13:50:56,034 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 02/25
+ INFO | 2022-06-28 13:50:57,118 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Entered text -> 987
+ INFO | 2022-06-28 13:50:57,119 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Entered text -> 987
+ INFO | 2022-06-28 13:50:58,628 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-Same As contact Address
+ INFO | 2022-06-28 13:50:58,628 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-Same As contact Address
+ERROR | 2022-06-28 13:51:02,438 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Uanble to click on Element-Donate Now, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53006}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eb38c10205269341474fca8bc9552b74
+ERROR | 2022-06-28 13:51:02,438 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Report step generation success : Uanble to click on Element-Donate Now, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53006}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eb38c10205269341474fca8bc9552b74
+ INFO | 2022-06-28 13:51:02,441 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ERROR | 2022-06-28 13:51:02,451 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Report step generation success : org.openqa.selenium.WebDriverException: unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53006}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eb38c10205269341474fca8bc9552b74
+ INFO | 2022-06-28 13:51:02,508 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-06-28 13:51:02,511 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:51:02,527 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:51:02,540 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:51:02,548 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2022-06-28 13:51:31,723 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Uanble to click on Element-Donate button, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53006}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eb38c10205269341474fca8bc9552b74
+ERROR | 2022-06-28 13:51:31,724 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Report step generation success : Uanble to click on Element-Donate button, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53006}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eb38c10205269341474fca8bc9552b74
+ INFO | 2022-06-28 13:51:31,727 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-06-28 13:51:51,405 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-06-28 13:51:51,406 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:51:51,408 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:51:51,410 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:51:51,412 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2022-06-28 13:51:52,109 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-One Time
+ INFO | 2022-06-28 13:51:52,109 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-One Time
+ INFO | 2022-06-28 13:51:53,467 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Clicked on WebElement-Price $100
+ INFO | 2022-06-28 13:51:53,468 | Common.java | 75 | Today_Donate_AS_A_GuestUser:  Report step generation success : Clicked on WebElement-Price $100
+ERROR | 2022-06-28 13:51:54,776 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Uanble to click on Element-Continue My Donation, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53006}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eb38c10205269341474fca8bc9552b74
+ERROR | 2022-06-28 13:51:54,776 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Report step generation success : Uanble to click on Element-Continue My Donation, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53006}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eb38c10205269341474fca8bc9552b74
+ INFO | 2022-06-28 13:51:54,779 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ERROR | 2022-06-28 13:51:59,175 | Common.java | 87 | Today_Donate_AS_A_GuestUser:  Report step generation success : org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53006}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eb38c10205269341474fca8bc9552b74
+ INFO | 2022-06-28 13:52:04,105 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-06-28 13:52:04,107 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-06-28 13:52:04,110 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2022-06-28 13:52:25,405 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\PlanCanada\TestResults\2022_06_28_01_49_13_PM/Results.html
+ INFO | 2022-06-28 13:52:25,405 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\PlanCanada\TestResults\2022_06_28_01_49_13_PM/Results.html
+ INFO | 2022-06-28 13:52:25,406 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  ###################################
+ INFO | 2022-06-28 13:52:25,406 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  Script Execvution Complete
+ INFO | 2022-06-28 13:52:25,406 | Common.java | 79 | Today_Donate_AS_A_GuestUser:  ####################################

@@ -1,0 +1,13 @@
+ INFO | 2022-06-28 13:56:57,890 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-06-28 13:56:57,893 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\PlanCanada\TestResults\2022_06_28_01_56_57_PM
+ INFO | 2022-06-28 13:56:57,893 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-06-28 13:56:58,127 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-06-28 13:56:58,316 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-06-28 13:56:59,210 | Common.java | 79 | null:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-06-28 13:56:59,211 | Common.java | 79 | null:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-06-28 13:56:59,212 | Common.java | 79 | null:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2022-06-28 13:56:59,215 | Common.java | 79 | null:  Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\PlanCanada\TestResults\2022_06_28_01_56_57_PM/Results.html
+ERROR | 2022-06-28 13:56:59,217 | Common.java | 87 | null:  java.lang.NullPointerException
+ INFO | 2022-06-28 13:56:59,217 | Common.java | 79 | null:  ###################################
+ INFO | 2022-06-28 13:56:59,217 | Common.java | 79 | null:  Script Execvution Complete
+ INFO | 2022-06-28 13:56:59,217 | Common.java | 79 | null:  ####################################
